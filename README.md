@@ -1,5 +1,4 @@
 This
 is
-the
-second
+another
 commit
